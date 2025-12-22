@@ -10,11 +10,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giancardonee&show_icons=true&theme=radical" alt="Gianca's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matielson&show_icons=true&theme=radical" alt="Gianca's GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancardonee&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matielson&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Giancardonee&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Matielson&color=blueviolet" alt="Profile views" />
 </div>
 
 
