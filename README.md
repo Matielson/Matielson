@@ -4,7 +4,7 @@
   🧑‍💻 Estudiante de Sistemas – <em>UNLP</em> <br>
   💡 Interés en el desarrollo de software y la informática <br>
   📂 Proyectos de la facultad y trabajos personales <br>
-  💻 Les dejo el Discord desarrollado por Giancardone, relacionado con las materias de la facultad: <br>
+  💻 Les dejo el Discord desarrollado por compañeros, relacionado con las materias de la facultad: <br>
   <a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>
 </p>
 
