@@ -1,10 +1,9 @@
 <h1> Bienvenido/a! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>  
 
 <p align="left">
-  😄 Acá podés encontrar tanto proyectos personales como proyectos de la facultad <br>
-  🌱 Cursando <em>Licenciatura en Sistemas</em> en la Facultad de Informática <em>UNLP</em> <br>
-  💻 Les dejo el Discord que hice con amigos y compañeros, relacionado con las materias de la facultad: <br>
-  <a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>
+  🧑‍💻 Estudiante de Sistemas – <em>UNLP</em> <br>
+  💡 Interés en el desarrollo de software y la informática <br>
+  📂 Proyectos de la facultad y trabajos personales
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
