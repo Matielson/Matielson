@@ -24,39 +24,43 @@
 <div align="center">
 
   <!-- CADP -->
-  <div style="display:inline-block; margin:10px;">
+  <div style="display:inline-block; vertical-align:top; margin:12px;">
     <a href="https://github.com/Matielson/CADP">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP">
+      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
     </a>
-    <br>
-    <small>📘 Nota: Esperando</small>
+    <div align="center">
+      <small>🟦 Nota: Esperando</small>
+    </div>
   </div>
 
   <!-- Taller -->
-  <div style="display:inline-block; margin:10px;">
+  <div style="display:inline-block; vertical-align:top; margin:12px;">
     <a href="https://github.com/Matielson/Taller-De-Programacion">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación">
+      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
     </a>
-    <br>
-    <small>📘 Estado: Pendiente</small>
+    <div align="center">
+      <small>🟦 Estado: Pendiente</small>
+    </div>
   </div>
 
   <!-- Arquitectura -->
-  <div style="display:inline-block; margin:10px;">
+  <div style="display:inline-block; vertical-align:top; margin:12px;">
     <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras">
+      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
     </a>
-    <br>
-    <small>📘 Estado: En curso</small>
+    <div align="center">
+      <small>🟦 Estado: En curso</small>
+    </div>
   </div>
 
   <!-- Organización -->
-  <div style="display:inline-block; margin:10px;">
+  <div style="display:inline-block; vertical-align:top; margin:12px;">
     <a href="https://github.com/Matielson/Organizacion-de-Computadoras">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras">
+      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
     </a>
-    <br>
-    <small>📘 Nota: 4</small>
+    <div align="center">
+      <small>🟦 Nota: 4</small>
+    </div>
   </div>
 
 </div>
