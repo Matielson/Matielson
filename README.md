@@ -29,7 +29,7 @@
     <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP">
   </a>
   <br>
-  <strong>📘 Nota:</strong> 
+  <small>📘 Nota: </small>
 </div>
 
 <a href="https://github.com/Matielson/Taller-De-Programacion">
