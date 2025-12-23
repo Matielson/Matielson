@@ -21,9 +21,7 @@
 
 <h2 align="center">Primer año Licenciatura en Sistemas</h2>
 
-<div>
-  <div align="center">
-    <a href="https://github.com/Matielson/CADP">
+  <a href="https://github.com/Matielson/CADP">
     <img
        width="270"
        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false"
@@ -54,8 +52,6 @@
         style="max-width: 100%;"
       >
     </a>
-  </div>
-</div>
 
 <h2 align="center">Segundo año Licenciatura en Sistemas</h2>
 
