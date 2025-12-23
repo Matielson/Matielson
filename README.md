@@ -19,19 +19,7 @@
 </div>
 
 
-## Primer año Licenciatura en Sistemas
-
-| CADP | Taller de Programación |
-|------|------------------------|
-| <a href="https://github.com/Matielson/CADP"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> | <a href="https://github.com/Matielson/Taller-De-Programacion"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> |
-| 🟦 Nota: Esperando | 🟦 Estado: Pendiente |
-
-| Arquitectura de Computadoras | Organización de Computadoras |
-|------------------------------|------------------------------|
-| <a href="https://github.com/Matielson/Arquitectura-De-Computadoras"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> | <a href="https://github.com/Matielson/Organizacion-de-Computadoras"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-de-Computadoras&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> |
-| 🟦 Estado: En curso | 🟥 Nota: 4 |
-
-
+<h2 align="center">Primer año Licenciatura en Sistemas</h2> <div> <div align="center"> <div align="center"> <a href="https://github.com/Matielson/CADP"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP"> </a> <br> <small>📘 Nota: </small> </div> <a href="https://github.com/Matielson/Taller-De-Programacion"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación" style="max-width: 100%;"> </a> <a href="https://github.com/Matielson/Arquitectura-De-Computadoras"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras" style="max-width: 100%;"> </a> <a href="https://github.com/Matielson/Organizacion-de-Computadoras"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;"> </a>
 <h2 align="center">Segundo año Licenciatura en Sistemas</h2>
 
 <a href="https://github.com/Giancardonee/FOD">
