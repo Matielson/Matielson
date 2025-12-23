@@ -19,7 +19,53 @@
 </div>
 
 
-<h2 align="center">Primer año Licenciatura en Sistemas</h2> <div> <div align="center"> <div align="center"> <a href="https://github.com/Matielson/CADP"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP"> </a> <br> <small>📘 Nota: </small> </div> <a href="https://github.com/Matielson/Taller-De-Programacion"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación" style="max-width: 100%;"> </a> <a href="https://github.com/Matielson/Arquitectura-De-Computadoras"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras" style="max-width: 100%;"> </a> <a href="https://github.com/Matielson/Organizacion-de-Computadoras"> <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;"> </a>
+<h2 align="center">Primer año Licenciatura en Sistemas</h2>
+
+<div>
+  <div align="center">
+
+    <div align="center">
+      <a href="https://github.com/Matielson/CADP">
+        <img
+          width="270"
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false"
+          alt="Repo de CADP"
+        >
+      </a>
+      <br>
+      <small>📘 Nota: </small>
+    </div>
+
+    <a href="https://github.com/Matielson/Taller-De-Programacion">
+      <img
+        width="270"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false"
+        alt="Repo de Taller de Programación"
+        style="max-width: 100%;"
+      >
+    </a>
+
+    <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
+      <img
+        width="270"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false"
+        alt="Repo de Arquitectura de Computadoras"
+        style="max-width: 100%;"
+      >
+    </a>
+
+    <a href="https://github.com/Matielson/Organizacion-de-Computadoras">
+      <img
+        width="270"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false"
+        alt="Repo de Organización de Computadoras"
+        style="max-width: 100%;"
+      >
+    </a>
+
+  </div>
+</div>
+
 <h2 align="center">Segundo año Licenciatura en Sistemas</h2>
 
 <a href="https://github.com/Giancardonee/FOD">
