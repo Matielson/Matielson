@@ -19,51 +19,18 @@
 </div>
 
 
-<h2 align="center">Primer año Licenciatura en Sistemas</h2>
+## Primer año Licenciatura en Sistemas
 
-<div align="center">
+| CADP | Taller de Programación |
+|------|------------------------|
+| <a href="https://github.com/Matielson/CADP"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> | <a href="https://github.com/Matielson/Taller-De-Programacion"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> |
+| 🟦 Nota: Esperando | 🟦 Estado: Pendiente |
 
-  <!-- CADP -->
-  <div style="display:inline-block; vertical-align:top; margin:12px;">
-    <a href="https://github.com/Matielson/CADP">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
-    </a>
-    <div align="center">
-      <small>🟦 Nota: Esperando</small>
-    </div>
-  </div>
+| Arquitectura de Computadoras | Organización de Computadoras |
+|------------------------------|------------------------------|
+| <a href="https://github.com/Matielson/Arquitectura-De-Computadoras"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> | <a href="https://github.com/Matielson/Organizacion-de-Computadoras"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-de-Computadoras&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false"></a> |
+| 🟦 Estado: En curso | 🟥 Nota: 4 |
 
-  <!-- Taller -->
-  <div style="display:inline-block; vertical-align:top; margin:12px;">
-    <a href="https://github.com/Matielson/Taller-De-Programacion">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
-    </a>
-    <div align="center">
-      <small>🟦 Estado: Pendiente</small>
-    </div>
-  </div>
-
-  <!-- Arquitectura -->
-  <div style="display:inline-block; vertical-align:top; margin:12px;">
-    <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
-    </a>
-    <div align="center">
-      <small>🟦 Estado: En curso</small>
-    </div>
-  </div>
-
-  <!-- Organización -->
-  <div style="display:inline-block; vertical-align:top; margin:12px;">
-    <a href="https://github.com/Matielson/Organizacion-de-Computadoras">
-      <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false">
-    </a>
-    <div align="center">
-      <small>🟦 Nota: 4</small>
-    </div>
-  </div>
-
-</div>
 
 <h2 align="center">Segundo año Licenciatura en Sistemas</h2>
 
