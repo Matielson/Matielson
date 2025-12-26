@@ -92,12 +92,6 @@
   Proyectos
 </h2>
 
-
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
-  Proyectos en JAVA
-</h3>
-
 ### 📦 Sistema Inventario (iTech La Plata)
 <a href="https://github.com/Matielson/SistemaInventarioiTech">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=SistemaInventarioiTech&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Sistema Inventario" style="max-width: 100%;">
