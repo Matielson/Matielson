@@ -11,7 +11,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matielson&show_icons=true&theme=radical" alt="Gianca's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matielson&show_icons=true&theme=radical" alt="Matielson's GitHub stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matielson&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
   <br>
