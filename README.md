@@ -248,22 +248,17 @@ Promedio actual: -
 
 ---
 
-# 📈 Progreso General
+# 📈 Progreso Académico
 
-<div align="center">
+### 📚 Primer Año — 83%
 
-### 📚 Primer Año
-
-![83%](https://progress-bar.xyz/83/?title=1er+Año&width=500&color=58A6FF)
+![83%](https://progress-bar.xyz/83/?title=Primer+Año&width=600&color=58A6FF)
 
 <br>
 
-### ⚙️ Segundo Año
+### ⚙️ Segundo Año — 0%
 
-![0%](https://progress-bar.xyz/0/?title=2do+Año&width=600&color=58A6FF)
-
-</div>
-
+![0%](https://progress-bar.xyz/0/?title=Segundo+Año&width=600&color=58A6FF)
 ---
 
 # 🌱 Actualmente
