@@ -271,25 +271,15 @@ Quinto Año      ░░░░░░░░░░ 0%
 
 <div align="center">
 
-# 🧮 Promedio General
+# 🧮 Estadísticas Académicas
 
-<table>
-<tr>
-<td align="center" width="300px">
+<div align="center">
 
-## 📚 Materias aprobadas
-10
+![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
 
-</td>
+![Promedio](https://img.shields.io/badge/Promedio-7.33-58A6FF?style=for-the-badge)
 
-<td align="center" width="300px">
-
-## 📝 Promedio actual
-8.0
-
-</td>
-</tr>
-</table>
+![Finales](https://img.shields.io/badge/Finales_Pendientes-2-yellow?style=for-the-badge)
 
 </div>
 
