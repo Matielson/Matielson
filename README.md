@@ -37,7 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=java" />
 
-<img src="./assets/pascal.png" width="55"/>
+<img src="./assets/pascal.png" width="48"/>
 
 </div>
 
