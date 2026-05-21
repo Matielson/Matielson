@@ -46,7 +46,7 @@
 | Estado | Significado |
 |---|---|
 | ✅ | Promocionada / Final aprobado |
-| 🟡 | Regular aprobada — falta final |
+| 🟡 | Regularidad aprobada — falta final |
 | 🚧 | Actualmente cursando |
 
 ---
