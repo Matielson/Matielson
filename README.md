@@ -254,7 +254,7 @@ Promedio actual: -
 
 ### 📚 Primer Año
 
-![83%](https://progress-bar.xyz/83/?title=Primer+Año&width=500&color=58A6FF)
+![83%](https://progress-bar.xyz/83/?title=1er+Año&width=500&color=58A6FF)
 
 <br>
 
