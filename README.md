@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP;Trabajos+prácticos+y+proyectos;Material+de+estudio+y+ejercicios;Aprender+%2B+Construir+%2B+Compartir" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F0CA89&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP 😉;Repositorios+por+materia" />
 
 </div>
 
