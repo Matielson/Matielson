@@ -260,7 +260,7 @@ Promedio actual: -
 
 ### ⚙️ Segundo Año
 
-![0%](https://progress-bar.xyz/0/?title=Completado&width=600&color=58A6FF)
+![0%](https://progress-bar.xyz/0/?title=2do+Año&width=600&color=58A6FF)
 
 </div>
 
