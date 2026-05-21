@@ -35,7 +35,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,pascal" />
+<img src="https://skillicons.dev/icons?i=java,c,cs,mysql,git,github,dotnet,vscode,linux" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="48"/>
 
 </div>
 
