@@ -260,17 +260,6 @@ Quinto Año      ░░░░░░░░░░ 0%
 
 ---
 
-<div align="center">
-
-### ✅ Aprobada / Promocionada  
-### 🟡 Final pendiente  
-### 🚧 Actualmente cursando  
-### ⏳ Pendiente de cursada
-
-</div>
-
----
-
 # 📈 Progreso general
 
 ```text
