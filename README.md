@@ -57,8 +57,10 @@
 |---|---|---|
 | Conceptos, Algoritmos, Datos y Programas (CADP) | ✅ | [Abrir](https://github.com/Matielson/CADP) |
 | Organización de Computadoras | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
+| Matematias I | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
 | Taller de Programación | 🚧 | [Abrir](https://github.com/Matielson/Taller-De-Programacion) |
 | Arquitectura de Computadoras | 🟡 | [Abrir](https://github.com/Matielson/Arquitectura-De-Computadoras) |
+| Matematicas II | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
 
 ---
 
