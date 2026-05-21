@@ -35,6 +35,10 @@
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,c,cs,mysql,git,github,dotnet,vscode,linux" />
+
+<br><br>
+
 <img src="./assets/pascal.png" width="55"/>
 
 <img src="./assets/r-info.png" width="55"/>
