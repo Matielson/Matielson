@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F0CA89&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP+😉;Repositorios+por+materia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5F5DC&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP+😉;Repositorios+por+materia" />
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Seguimiento+acad%C3%A9mico;Materias+aprobadas+y+en+curso;Repositorios+y+material+de+estudio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5F5DC&center=true&vCenter=true&width=700&lines=Seguimiento+acad%C3%A9mico;Materias+aprobadas+y+en+curso" />
 
 </div>
 
