@@ -147,15 +147,8 @@ Nota final: 6
 
 </div>
 
----
-
-<div align="center">
-
-## 📚 Primer Semestre
-
-</div>
-
 <table>
+
 <tr>
 
 <td width="33%">
@@ -198,17 +191,7 @@ Promedio actual: -
 </td>
 
 </tr>
-</table>
 
----
-
-<div align="center">
-
-## 📚 Segundo Semestre
-
-</div>
-
-<table>
 <tr>
 
 <td width="33%">
