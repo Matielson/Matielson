@@ -37,7 +37,9 @@
 
 <img src="https://skillicons.dev/icons?i=java,c,cs,mysql,git,github,dotnet,vscode,linux" />
 
-<img src="https://www.freepascal.org/images/fplogo.svg" width="50"/>
+<br><br>
+
+<img src="https://www.freepascal.org/images/fplogo.svg" width="45"/>
 
 </div>
 
