@@ -248,18 +248,6 @@ Promedio actual: -
 
 ---
 
-# 📈 Avance General
-
-```text
-Primer Año      ██████████ 100%
-Segundo Año     ███████░░░ 70%
-Tercer Año      ░░░░░░░░░░ 0%
-Cuarto Año      ░░░░░░░░░░ 0%
-Quinto Año      ░░░░░░░░░░ 0%
-```
-
----
-
 # 📈 Progreso general
 
 ```text
