@@ -76,6 +76,30 @@ Nota final: -
 
 <td width="33%">
 
+### ⚙️ Organización de Computadoras
+
+```text
+Estado: ✅ Aprobada
+Nota final: 4
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
+
+</td>
+
+<td width="33%">
+
+### 📐 Matemática I
+
+```text
+Estado: ✅ Promocionada
+Nota final: 9
+```
+
+</td>
+
+<td width="33%">
+
 ### ☕ Taller de Programación
 
 ```text
@@ -102,30 +126,6 @@ Nota final: -
 </tr>
 
 <tr>
-<td width="33%">
-
-### ⚙️ Organización de Computadoras
-
-```text
-Estado: ✅ Aprobada
-Nota final: 4
-```
-
-🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
-
-</td>
-
-<td width="33%">
-
-### 📐 Matemática I
-
-```text
-Estado: ✅ Promocionada
-Nota final: 9
-```
-
-</td>
-
 <td width="33%">
 
 ### 📐 Matemática II
