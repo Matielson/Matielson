@@ -31,17 +31,6 @@
 
 </div>
 
----
-
-# 🛠️ Tecnologías utilizadas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="./assets/pascal.png" width="48"/>
-
-</div>
 
 ---
 
