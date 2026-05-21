@@ -154,8 +154,8 @@ Nota final: 6
 ### 🗂️ FOD
 
 ```text
-Estado: ✅ Aprobada
-Nota final: 8
+Estado: ⏳ Pendiente
+Nota final: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/FOD)
@@ -167,8 +167,8 @@ Nota final: 8
 ### 🧠 AyED
 
 ```text
-Estado: 🚧 Cursando
-Promedio actual: 7
+Estado: ⏳ Pendiente
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/AyED)
@@ -180,8 +180,8 @@ Promedio actual: 7
 ### 🧱 OO1
 
 ```text
-Estado: 🚧 Cursando
-Promedio actual: 8
+Estado: ⏳ Pendiente
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/OO1)
@@ -195,8 +195,8 @@ Promedio actual: 8
 ### 🗄️ DBD
 
 ```text
-Estado: 🚧 Cursando
-Promedio actual: 7
+Estado: ⏳ Pendiente
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/DBD)
@@ -208,8 +208,8 @@ Promedio actual: 7
 ### ⚡ Seminario .NET
 
 ```text
-Estado: ✅ Aprobada
-Nota final: 9
+Estado: ⏳ Pendiente
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
@@ -221,8 +221,8 @@ Nota final: 9
 ### 📊 Ingeniería de Software
 
 ```text
-Estado: 🚧 Cursando
-Promedio actual: 8
+Estado: ⏳ Pendiente
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/INGE1)
@@ -273,9 +273,10 @@ Quinto Año      ░░░░░░░░░░ 0%
 
 <div align="center">
 
-### ✅ Promocionada / Final aprobado  
-### 🟡 Regular aprobada — Final pendiente  
-### 🚧 Actualmente cursando
+### ✅ Aprobada / Promocionada  
+### 🟡 Final pendiente  
+### 🚧 Actualmente cursando  
+### ⏳ Pendiente de cursada
 
 </div>
 
