@@ -248,15 +248,15 @@ Promedio actual: -
 
 ---
 
-# 📈 Progreso general
+# 📈 Progreso General
 
-```text
-Primer Año      ██████████ 100%
-Segundo Año     ███████░░░ 70%
-Tercer Año      ░░░░░░░░░░ 0%
-Cuarto Año      ░░░░░░░░░░ 0%
-Quinto Año      ░░░░░░░░░░ 0%
-```
+### 📚 Primer Año — 70%
+
+![70%](https://progress-bar.xyz/70/?title=Completado&width=500)
+
+### ⚙️ Segundo Año — 0%
+
+![0%](https://progress-bar.xyz/0/?title=Completado&width=500)
 
 ---
 
