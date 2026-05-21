@@ -74,12 +74,12 @@
 
 | Materia | Estado |
 |---|---|
-| FOD | ✅ |
-| AyED | 🚧 |
+| FOD | - |
+| AyED | - |
 | OO1 | 🚧 |
-| DBD | 🚧 |
-| Seminario .NET | ✅ |
-| Ingeniería de Software | 🚧 |
+| DBD | - |
+| Seminario | - |
+| Ingeniería de Software 1 | 🚧 |
 | Matemática 3 | 🚧 |
 
 ---
