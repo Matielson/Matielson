@@ -147,15 +147,24 @@ Nota final: 6
 
 </div>
 
+---
+
+<div align="center">
+
+## 📚 Primer Semestre
+
+</div>
+
 <table>
 <tr>
+
 <td width="33%">
 
 ### 🗂️ FOD
 
 ```text
 Estado: ⏳ Pendiente
-Nota final: -
+Promedio actual: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/FOD)
@@ -177,19 +186,31 @@ Promedio actual: -
 
 <td width="33%">
 
-### 🧱 OO1
+### ⚡ Seminario .NET
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/OO1)
+🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
 
 </td>
-</tr>
 
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📚 Segundo Semestre
+
+</div>
+
+<table>
 <tr>
+
 <td width="33%">
 
 ### 🗄️ DBD
@@ -205,19 +226,6 @@ Promedio actual: -
 
 <td width="33%">
 
-### ⚡ Seminario .NET
-
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
-
-🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
-
-</td>
-
-<td width="33%">
-
 ### 📊 Ingeniería de Software
 
 ```text
@@ -228,7 +236,40 @@ Promedio actual: -
 🔗 [Repositorio](https://github.com/Matielson/INGE1)
 
 </td>
+
+<td width="33%">
+
+### 🖥️ Introducción a Sistemas Operativos
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="33%">
+
+### 🧱 OO1
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/OO1)
+
+</td>
+
+<td width="33%"></td>
+<td width="33%"></td>
+
+</tr>
+
 </table>
 
 ---
