@@ -60,6 +60,7 @@
 </div>
 
 <table>
+
 <tr>
 <td width="33%">
 
@@ -99,6 +100,7 @@ Nota final: 9
 </td>
 </tr>
 
+<tr>
 <td width="33%">
 
 ### ☕ Taller de Programación
@@ -125,8 +127,6 @@ Nota final: -
 
 </td>
 
-
-<tr>
 <td width="33%">
 
 ### 📐 Matemática II
@@ -137,11 +137,11 @@ Nota final: 6
 ```
 
 </td>
+</tr>
+
 </table>
 
 ---
-
-<div align="center">
 
 # ⚙️ Segundo Año
 
