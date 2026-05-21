@@ -41,39 +41,241 @@
 
 ---
 
-# 🎓 Estado de la carrera
+# 🎓 Progreso Académico — Licenciatura en Sistemas UNLP
 
-| Estado | Significado |
-|---|---|
-| ✅ | Promocionada / Final aprobado |
-| 🟡 | Regularidad aprobada — falta final |
-| 🚧 | Actualmente cursando |
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Seguimiento+acad%C3%A9mico;Materias+aprobadas+y+en+curso;Repositorios+y+material+de+estudio" />
+
+</div>
 
 ---
+
+<div align="center">
 
 # 📚 Primer Año
 
-| Materia | Estado | Repositorio |
-|---|---|---|
-| Conceptos, Algoritmos, Datos y Programas (CADP) | ✅ | [Abrir](https://github.com/Matielson/CADP) |
-| Organización de Computadoras | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
-| Matematias I | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
-| Taller de Programación | 🚧 | [Abrir](https://github.com/Matielson/Taller-De-Programacion) |
-| Arquitectura de Computadoras | 🟡 | [Abrir](https://github.com/Matielson/Arquitectura-De-Computadoras) |
-| Matematicas II | ✅ | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 💻 CADP
+
+```text
+Estado: ✅ Promocionada
+Nota final: 8
+```
+
+🔗 [Repositorio](https://github.com/Matielson/CADP)
+
+</td>
+
+<td width="33%">
+
+### ☕ Taller de Programación
+
+```text
+Estado: ✅ Promocionada
+Nota final: 9
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
+
+</td>
+
+<td width="33%">
+
+### 🖥️ Arquitectura de Computadoras
+
+```text
+Estado: 🟡 Final pendiente
+Cursada: 7
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### ⚙️ Organización de Computadoras
+
+```text
+Estado: 🟡 Final pendiente
+Cursada: 8
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
+
+</td>
+
+<td width="33%">
+
+### 📐 Matemática I
+
+```text
+Estado: ✅ Aprobada
+Nota final: 6
+```
+
+</td>
+
+<td width="33%">
+
+### 📐 Matemática II
+
+```text
+Estado: ✅ Aprobada
+Nota final: 7
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
 # ⚙️ Segundo Año
 
-| Materia | Estado | Repositorio |
-|---|---|---|
-| FOD | ✅ | [Abrir](https://github.com/Matielson/FOD) |
-| AyED | 🚧 | [Abrir](https://github.com/Matielson/AyED) |
-| OO1 | 🚧 | [Abrir](https://github.com/Matielson/OO1) |
-| DBD | 🚧 | [Abrir](https://github.com/Matielson/DBD) |
-| Seminario .NET | ✅ | [Abrir](https://github.com/Matielson/Seminario-.NET) |
-| Ingeniería de Software | 🚧 | [Abrir](https://github.com/Matielson/INGE1) |
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🗂️ FOD
+
+```text
+Estado: ✅ Aprobada
+Nota final: 8
+```
+
+🔗 [Repositorio](https://github.com/Matielson/FOD)
+
+</td>
+
+<td width="33%">
+
+### 🧠 AyED
+
+```text
+Estado: 🚧 Cursando
+Promedio actual: 7
+```
+
+🔗 [Repositorio](https://github.com/Matielson/AyED)
+
+</td>
+
+<td width="33%">
+
+### 🧱 OO1
+
+```text
+Estado: 🚧 Cursando
+Promedio actual: 8
+```
+
+🔗 [Repositorio](https://github.com/Matielson/OO1)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### 🗄️ DBD
+
+```text
+Estado: 🚧 Cursando
+Promedio actual: 7
+```
+
+🔗 [Repositorio](https://github.com/Matielson/DBD)
+
+</td>
+
+<td width="33%">
+
+### ⚡ Seminario .NET
+
+```text
+Estado: ✅ Aprobada
+Nota final: 9
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
+
+</td>
+
+<td width="33%">
+
+### 📊 Ingeniería de Software
+
+```text
+Estado: 🚧 Cursando
+Promedio actual: 8
+```
+
+🔗 [Repositorio](https://github.com/Matielson/INGE1)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Avance General
+
+```text
+Primer Año      ██████████ 100%
+Segundo Año     ███████░░░ 70%
+Tercer Año      ░░░░░░░░░░ 0%
+Cuarto Año      ░░░░░░░░░░ 0%
+Quinto Año      ░░░░░░░░░░ 0%
+```
+
+---
+
+<div align="center">
+
+# 🧮 Promedio General
+
+<table>
+<tr>
+<td align="center" width="300px">
+
+## 📚 Materias aprobadas
+10
+
+</td>
+
+<td align="center" width="300px">
+
+## 📝 Promedio actual
+8.0
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✅ Promocionada / Final aprobado  
+### 🟡 Regular aprobada — Final pendiente  
+### 🚧 Actualmente cursando
+
+</div>
 
 ---
 
