@@ -97,6 +97,7 @@ Nota final: 9
 ```
 
 </td>
+</tr>
 
 <td width="33%">
 
@@ -123,7 +124,7 @@ Nota final: -
 🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
 
 </td>
-</tr>
+
 
 <tr>
 <td width="33%">
