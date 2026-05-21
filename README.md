@@ -137,7 +137,6 @@ Nota final: 6
 ```
 
 </td>
-</tr>
 </table>
 
 ---
