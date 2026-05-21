@@ -1,116 +1,165 @@
-<h1> Bienvenido/a! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>  
+<div align="center">
 
-<p align="left">
-  🧑‍💻 Estudiante de Sistemas – <em>UNLP</em> <br>
-  💡 Interés en el desarrollo de software y la informática <br>
-  📂 Proyectos de la facultad y trabajos personales <br>
-  💻 Les dejo el Discord desarrollado por compañeros, relacionado con las materias de la facultad: <br>
-  <a href="https://discord.gg/2MwfRcduGn">Invitación al Discord</a>
+# 👋 Hola, soy Mati Núñez
+
+### 🎓 Estudiante de Licenciatura en Sistemas — UNLP  
+### 💻 Software Developer & Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP;Backend+Developer;Always+Learning+New+Technologies;Building+Projects+and+Growing+Every+Day" />
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matielson&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matielson&show_icons=true&theme=radical" alt="Matielson's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matielson&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Matielson&color=blueviolet" alt="Profile views" />
 </div>
 
+---
 
-<h2 align="center">Primer año Licenciatura en Sistemas</h2>
+# 🚀 Sobre mí
 
-<div>
+🎓 Actualmente estudiando **Licenciatura en Sistemas** en la **UNLP**  
+💡 Interesado en desarrollo de software, backend y arquitectura de computadoras  
+📚 Aprendiendo constantemente nuevas tecnologías y herramientas  
+⚡ Enfocado en mejorar lógica, algoritmos y estructuras de datos  
+📍 La Plata, Argentina
+
+---
+
+# 🛠️ Tech Stack
+
 <div align="center">
 
-<a href="https://github.com/Matielson/CADP">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=CADP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CADP" style="max-width: 100%;">
+### 👨‍💻 Lenguajes
+
+<img src="https://skillicons.dev/icons?i=java,c,cs,cpp,python" />
+
+### ⚙️ Herramientas & Tecnologías
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql,dotnet" />
+
+### 🖥️ Sistemas Operativos
+
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+</div>
+
+---
+
+# 📚 Roadmap Universitario
+
+<div align="center">
+
+## 🎓 Progreso de la Carrera
+
+</div>
+
+---
+
+## ✅ Primer Año — COMPLETADO
+
+| Materia | Estado |
+|---|---|
+| CADP | ✅ Promocionada |
+| Taller de Programación | ✅ Promocionada |
+| Organización de Computadoras | ✅ Aprobada |
+| Arquitectura de Computadoras | ✅ Aprobada |
+| Matemática 1 | ✅ |
+| Matemática 2 | ✅ |
+
+---
+
+## 🚧 Segundo Año — EN PROGRESO
+
+| Materia | Estado |
+|---|---|
+| FOD | ✅ |
+| AyED | 🚧 |
+| OO1 | 🚧 |
+| DBD | 🚧 |
+| Seminario .NET | ✅ |
+| Ingeniería de Software | 🚧 |
+| Matemática 3 | 🚧 |
+
+---
+
+# 📈 Progreso General
+
+```text
+Primer Año      ██████████ 100%
+Segundo Año     ███████░░░ 70%
+Tercer Año      ░░░░░░░░░░ 0%
+Cuarto Año      ░░░░░░░░░░ 0%
+Quinto Año      ░░░░░░░░░░ 0%
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matielson&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matielson&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Matielson&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Actualmente
+
+- 📚 Estudiando estructuras de datos y algoritmos
+- 💻 Mejorando habilidades backend
+- ⚙️ Trabajando en proyectos personales
+- 🚀 Construyendo mi portfolio profesional
+- 🏋️ Manteniendo disciplina y constancia
+
+---
+
+# 🔥 Objetivos 2026
+
+- [x] Promocionar Taller de Programación
+- [x] Aprobar Matemática 3
+- [ ] Aprender React
+- [ ] Construir proyectos full stack
+- [ ] Conseguir primera experiencia IT
+- [ ] Contribuir a proyectos open source
+
+---
+
+# 📂 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🖥️ CADP | Algoritmos y Programación | Pascal |
+| ⚙️ Taller | Desarrollo de software | Java |
+| 🧠 AyED | Estructuras de Datos | Java |
+| 🗄️ DBD | Bases de Datos | SQL |
+
+</div>
+
+---
+
+# 🌐 Contacto
+
+<div align="center">
+
+<a href="https://github.com/Matielson">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/Matielson/Taller-De-Programacion">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Taller-De-Programacion&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Taller de Programación" style="max-width: 100%;">
-</a>
+</div>
 
-<a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Arquitectura-De-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Arquitectura de Computadoras" style="max-width: 100%;">
-</a>
+---
 
-<a href="https://github.com/Matielson/Organizacion-de-Computadoras">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&amp;repo=Organizacion-de-Computadoras&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Organización de Computadoras" style="max-width: 100%;">
-</a>
+<div align="center">
 
-<h2 align="center">Segundo año Licenciatura en Sistemas</h2>
+## ⚡ “La disciplina supera a la motivación.”
 
-<a href="https://github.com/Giancardonee/FOD">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=FOD&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de FOD" style="max-width: 100%;">
-</a>
-<a href="https://github.com/Giancardonee/AyED">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=AyED&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de AyED" style="max-width: 100%;">
-</a>
-<a href="https://github.com/Giancardonee/Seminario-.NET">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=Seminario-.NET&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de Seminario-.NET" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/Giancardonee/INGE1">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=INGE1&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de INGE1" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/Giancardonee/OO1">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO1&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO1" style="max-width: 100%;">
-  
-</a>
-<a href="https://github.com/Giancardonee/DBD">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=DBD&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de DBD" style="max-width: 100%;">
-</a>
-<a href="https://github.com/Giancardonee/ISO">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=ISO&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de ISO" style="max-width: 100%;">
-</a>
-
-<h2 align="center">Tercer año Licenciatura en Sistemas</h2>
-<a href="https://github.com/Giancardonee/OO2">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=OO2&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de OO2" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/Giancardonee/CPLP">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&amp;repo=CPLP&amp;theme=midnight-purple&amp;border_color=40E0D0&amp;bg_color=2C003E&amp;icon_color=F8D866&amp;show_icons=false" alt="Repo de CPLP" style="max-width: 100%;">
-</a>
-
-<a href="https://github.com/Giancardonee/BD1">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=BD1&theme=midnight-purple&border_color=40E0D0&bg_color=2C003E&icon_color=F8D866&show_icons=false" alt="Repo de BD1" style="max-width: 100%;">
-</a>
-
-
-<p> En construccion </p>
-
-
-
-
-
-
-<h2 align="center">
-  Proyectos
-</h2>
-
-### 📦 Sistema Inventario (iTech La Plata)
-<a href="https://github.com/Matielson/SistemaInventarioiTech">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=SistemaInventarioiTech&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Sistema Inventario" style="max-width: 100%;">
-</a>
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="30" style="vertical-align: middle; margin-right: 10px;"> Spring Boot
-<a href="https://github.com/Giancardonee/API-PRODUCTOS">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=API-PRODUCTOS&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="API PRODUCTOS" style="max-width: 100%;">
-</a>
-<a href="https://github.com/Giancardonee/Generador-De-QR">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=Generador-De-QR&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Generador De QR" style="max-width: 100%;">
-</a>
-
-<h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
-  Proyectos en C# y .NET
-</h3>
-
-<a href="https://github.com/Giancardonee/Gestion-De-Expedientes">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giancardonee&repo=Gestion-De-Expedientes&theme=midnight-purple&border_color=FFA500&bg_color=2C3E50&icon_color=F8F8FF&show_icons=true" alt="Gestion De Expedientes" style="max-width: 100%;">
-</a>
-
+</div>
