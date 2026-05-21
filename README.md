@@ -262,22 +262,6 @@ Quinto Año      ░░░░░░░░░░ 0%
 
 <div align="center">
 
-# 🧮 Estadísticas Académicas
-
-<div align="center">
-
-![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
-
-![Promedio](https://img.shields.io/badge/Promedio-7.33-58A6FF?style=for-the-badge)
-
-![Finales](https://img.shields.io/badge/Finales_Pendientes-2-yellow?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
 ### ✅ Aprobada / Promocionada  
 ### 🟡 Final pendiente  
 ### 🚧 Actualmente cursando  
