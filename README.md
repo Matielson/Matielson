@@ -250,13 +250,19 @@ Promedio actual: -
 
 # 📈 Progreso General
 
-### 📚 Primer Año — 70%
+<div align="center">
 
-![70%](https://progress-bar.xyz/70/?title=Completado&width=500)
+### 📚 Primer Año
 
-### ⚙️ Segundo Año — 0%
+![70%](https://progress-bar.xyz/70/?title=Completado&width=600&color=58A6FF)
 
-![0%](https://progress-bar.xyz/0/?title=Completado&width=500)
+<br>
+
+### ⚙️ Segundo Año
+
+![0%](https://progress-bar.xyz/0/?title=Completado&width=600&color=58A6FF)
+
+</div>
 
 ---
 
