@@ -2,94 +2,20 @@
 
 # 📚 Licenciatura en Sistemas — UNLP
 
-### Repositorios, apuntes y material de cursada
-
-Repositorio personal donde voy subiendo trabajos prácticos, ejercicios, resúmenes y proyectos realizados durante la carrera.
-
-Orientado tanto a mi progreso académico como a ayudar a otros estudiantes de la facultad.
+### Repositorios, prácticas, ejercicios y proyectos de la carrera
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP;Material+de+cursadas+y+proyectos;Resoluciones+y+ejercicios+prácticos;Compartiendo+conocimiento+con+la+comunidad" />
+<p>
+  Material organizado por materias, orientado tanto al aprendizaje personal
+  como a ayudar a otros estudiantes de informática.
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP;Trabajos+prácticos+y+proyectos;Material+de+estudio+y+ejercicios;Aprender+%2B+Construir+%2B+Compartir" />
 
 </div>
-
----
-
-# 🎓 Estado de la carrera
-
-## ✅ Primer Año — EN CURSO lpm
-
-| Materia | Estado | Repositorio |
-|---|---|---|
-| CADP | ⏳ Falta Final | 📂 Disponible |
-| Organización de Computadoras | ✅ Aprobada | 📂 Disponible |
-| Matemática I | ✅ PROMOCIONADA | 📝 |
-| Taller de Programación | 🚧 Cursando (Redictado) | 📂 Disponible |
-| Arquitectura de Computadoras | ⏳ Falta Final | 📂 Disponible |
-| Matemática II | ✅ PROMOCIONADA | 📝 |
-
----
-
-## 🚧 Segundo Año — EN CURSO
-
-| Materia | Estado | Repositorio |
-|---|---|---|
-| FOD | - | 📂 En progreso |
-| AyED | - | 📂 En progreso |
-| OO1 | - | 📂 En progreso |
-| DBD | - | 📂 En progreso |
-| Seminario .NET | - | 📂 En progreso |
-| Ingeniería de Software | - | 📂 En progreso |
-
----
-
-# 📈 Progreso general
-
-```text
-Primer Año      ██████████ 80%
-Segundo Año     ░░░░░░░░░░ 0%
-Tercer Año      ░░░░░░░░░░ 0%
-Cuarto Año      ░░░░░░░░░░ 0%
-Quinto Año      ░░░░░░░░░░ 0%
-```
-
----
-
-# 📂 Repositorios destacados
-
-## 💻 Primer Año
-
-| Materia | Contenido |
-|---|---|
-| CADP | Algoritmos, estructuras básicas y resolución de problemas |
-| Taller de Programación | Java, objetos, prácticas y proyectos |
-| Arquitectura de Computadoras | Assembly, memoria, CPU y bajo nivel |
-| Organización de Computadoras | Conceptos fundamentales de hardware |
-
----
-
-## ⚙️ Segundo Año
-
-| Materia | Contenido |
-|---|---|
-| AyED | Algoritmos y estructuras de datos |
-| FOD | Organización y manejo de datos |
-| OO1 | Programación orientada a objetos |
-| DBD | Modelado y diseño de bases de datos |
-| Seminario .NET | Desarrollo con C# y .NET |
-
----
-
-# 🧠 Objetivo del perfil
-
-Este GitHub busca:
-
-- 📚 Centralizar material de estudio
-- 💻 Compartir trabajos prácticos y ejercicios
-- 🧠 Documentar mi progreso en la carrera
-- 🤝 Ayudar a estudiantes de la UNLP
-- 🚀 Mejorar constantemente como desarrollador
 
 ---
 
@@ -109,24 +35,70 @@ Este GitHub busca:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cs,git,github,mysql,dotnet,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,c,cs,mysql,git,github,dotnet,vscode,linux" />
 
 </div>
 
 ---
 
+# 🎓 Estado de la carrera
+
+| Estado | Significado |
+|---|---|
+| ✅ | Promocionada / Final aprobado |
+| 🟡 | Regular aprobada — falta final |
+| 🚧 | Actualmente cursando |
+
+---
+
+# 📚 Primer Año
+
+| Materia | Estado | Repositorio |
+|---|---|---|
+| CADP | ✅ | [Abrir](https://github.com/Matielson/CADP) |
+| Taller de Programación | ✅ | [Abrir](https://github.com/Matielson/Taller-De-Programacion) |
+| Organización de Computadoras | 🟡 | [Abrir](https://github.com/Matielson/Organizacion-De-Computadoras) |
+| Arquitectura de Computadoras | 🟡 | [Abrir](https://github.com/Matielson/Arquitectura-De-Computadoras) |
+
+---
+
+# ⚙️ Segundo Año
+
+| Materia | Estado | Repositorio |
+|---|---|---|
+| FOD | ✅ | [Abrir](https://github.com/Matielson/FOD) |
+| AyED | 🚧 | [Abrir](https://github.com/Matielson/AyED) |
+| OO1 | 🚧 | [Abrir](https://github.com/Matielson/OO1) |
+| DBD | 🚧 | [Abrir](https://github.com/Matielson/DBD) |
+| Seminario .NET | ✅ | [Abrir](https://github.com/Matielson/Seminario-.NET) |
+| Ingeniería de Software | 🚧 | [Abrir](https://github.com/Matielson/INGE1) |
+
+---
+
+# 📈 Progreso general
+
+```text
+Primer Año      ██████████ 100%
+Segundo Año     ███████░░░ 70%
+Tercer Año      ░░░░░░░░░░ 0%
+Cuarto Año      ░░░░░░░░░░ 0%
+Quinto Año      ░░░░░░░░░░ 0%
+```
+
+---
+
 # 🌱 Actualmente
 
-- Mejorando lógica y resolución de problemas
-- Aprendiendo estructuras de datos
-- Profundizando en programación orientada a objetos
-- Construyendo mejores prácticas de desarrollo
-- Subiendo material y proyectos de la carrera
+- Resolviendo ejercicios y prácticas de AyED
+- Mejorando lógica y estructuras de datos
+- Aprendiendo mejores prácticas de programación
+- Organizando material útil para estudiantes
+- Construyendo una base sólida en informática
 
 ---
 
 <div align="center">
 
-### 📌 “Aprender, construir y compartir.”
+### 💡 “Documentar el progreso también es parte del aprendizaje.”
 
 </div>
