@@ -37,7 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,c,cs,mysql,git,github,dotnet,vscode,linux" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="48"/>
+<img src="https://www.freepascal.org/images/fplogo.svg" width="50"/>
 
 </div>
 
