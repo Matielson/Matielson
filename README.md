@@ -66,8 +66,8 @@
 ### 💻 CADP
 
 ```text
-Estado: ✅ Promocionada
-Nota final: 8
+Estado: 🟡 Final pendiente
+Nota final: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/CADP)
@@ -79,8 +79,8 @@ Nota final: 8
 ### ☕ Taller de Programación
 
 ```text
-Estado: ✅ Promocionada
-Nota final: 9
+Estado: 🚧 Cursando
+Promedio actual: 7
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
@@ -93,7 +93,7 @@ Nota final: 9
 
 ```text
 Estado: 🟡 Final pendiente
-Cursada: 7
+Nota final: -
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
@@ -107,8 +107,8 @@ Cursada: 7
 ### ⚙️ Organización de Computadoras
 
 ```text
-Estado: 🟡 Final pendiente
-Cursada: 8
+Estado: ✅ Aprobada
+Nota final: 4
 ```
 
 🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
@@ -120,8 +120,8 @@ Cursada: 8
 ### 📐 Matemática I
 
 ```text
-Estado: ✅ Aprobada
-Nota final: 6
+Estado: ✅ Promocionada
+Nota final: 9
 ```
 
 </td>
@@ -131,8 +131,8 @@ Nota final: 6
 ### 📐 Matemática II
 
 ```text
-Estado: ✅ Aprobada
-Nota final: 7
+Estado: ✅ Promocionada
+Nota final: 6
 ```
 
 </td>
