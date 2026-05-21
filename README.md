@@ -25,7 +25,7 @@
 
 ![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
 
-![Promedio](https://img.shields.io/badge/Promedio-7.33-grey?style=for-the-badge)
+![Promedio](https://img.shields.io/badge/Promedio-7.33-blue?style=for-the-badge)
 
 ![Finales](https://img.shields.io/badge/Finales_Pendientes-2-green?style=for-the-badge)
 
