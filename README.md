@@ -19,13 +19,15 @@
 
 ---
 
-# 📊 Estadísticas
+# 🧮 Estadísticas Académicas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Matielson&show_icons=true&theme=github_dark&hide_border=true"/>
+![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matielson&layout=compact&theme=github_dark&hide_border=true"/>
+![Promedio](https://img.shields.io/badge/Promedio-7.33-grey?style=for-the-badge)
+
+![Finales](https://img.shields.io/badge/Finales_Pendientes-2-green?style=for-the-badge)
 
 </div>
 
