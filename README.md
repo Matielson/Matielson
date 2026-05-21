@@ -23,10 +23,10 @@ Orientado tanto a mi progreso académico como a ayudar a otros estudiantes de la
 | Materia | Estado | Repositorio |
 |---|---|---|
 | CADP | ⏳ Falta Final | 📂 Disponible |
-| Taller de Programación | 🚧 Cursando (Redictado) | 📂 Disponible |
 | Organización de Computadoras | ✅ Aprobada | 📂 Disponible |
-| Arquitectura de Computadoras | ⏳ Falta Final | 📂 Disponible |
 | Matemática I | ✅ PROMOCIONADA | 📝 |
+| Taller de Programación | 🚧 Cursando (Redictado) | 📂 Disponible |
+| Arquitectura de Computadoras | ⏳ Falta Final | 📂 Disponible |
 | Matemática II | ✅ PROMOCIONADA | 📝 |
 
 ---
