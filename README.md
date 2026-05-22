@@ -269,7 +269,7 @@ Nota final: 7
 
 </table>
 
-<div> ... </div>
+<div align="center"> ... </div>
 
 # 📈 Progreso Académico
 
