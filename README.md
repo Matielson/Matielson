@@ -44,7 +44,7 @@
 
 ---
 
-<div>
+<div align="center">
 
 # 📚 Primer Año
 
@@ -55,84 +55,84 @@
 <tr>
 <td width="33%">
 
-### 💻 CADP
+<h3>💻 CADP</h3>
 
-```text
-Estado: 🟡 Final pendiente
-Nota final: -
-```
+<b>Estado:</b> 🟡 Final pendiente  
+<b>Nota final:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/CADP)
+<br><br>
 
-</td>
-
-<td width="33%">
-
-### ⚙️ Organización de Computadoras
-
-```text
-Estado: ✅ Aprobada
-Nota final: 4
-```
-
-🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
+🔗 <a href="https://github.com/Matielson/CADP">Repositorio</a>
 
 </td>
 
 <td width="33%">
 
-### 📐 Matemática I
+<h3>⚙️ Organización de Computadoras</h3>
 
-```text
-Estado: ✅ Promocionada
-Nota final: 9
-```
+<b>Estado:</b> ✅ Aprobada  
+<b>Nota final:</b> 4
+
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/Organizacion-De-Computadoras">Repositorio</a>
+
+</td>
+
+<td width="33%">
+
+<h3>📐 Matemática I</h3>
+
+<b>Estado:</b> ✅ Promocionada  
+<b>Nota final:</b> 9
 
 </td>
 </tr>
 
 <tr>
+
 <td width="33%">
 
-### ☕ Taller de Programación
+<h3>☕ Taller de Programación</h3>
 
-```text
-Estado: 🚧 Cursando
-Promedio actual: 7
-```
+<b>Estado:</b> 🚧 Cursando  
+<b>Promedio actual:</b> 7
 
-🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/Taller-De-Programacion">Repositorio</a>
 
 </td>
 
 <td width="33%">
 
-### 🖥️ Arquitectura de Computadoras
+<h3>🖥️ Arquitectura de Computadoras</h3>
 
-```text
-Estado: 🟡 Final pendiente
-Nota final: -
-```
+<b>Estado:</b> 🟡 Final pendiente  
+<b>Nota final:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">Repositorio</a>
 
 </td>
 
 <td width="33%">
 
-### 📐 Matemática II
+<h3>📐 Matemática II</h3>
 
-```text
-Estado: ✅ Promocionada
-Nota final: 6
-```
+<b>Estado:</b> ✅ Promocionada  
+<b>Nota final:</b> 6
 
 </td>
+
 </tr>
 
 </table>
 
 ---
+
+<div align="center">
 
 # ⚙️ Segundo Año
 
@@ -144,81 +144,40 @@ Nota final: 6
 
 <td width="33%">
 
-### 🗂️ FOD
+<h3>🗂️ FOD</h3>
 
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/FOD)
+<br><br>
 
-</td>
-
-<td width="33%">
-
-### 🧠 AyED
-
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
-
-🔗 [Repositorio](https://github.com/Matielson/AyED)
+🔗 <a href="https://github.com/Matielson/FOD">Repositorio</a>
 
 </td>
 
 <td width="33%">
 
-### ⚡ Seminario .NET
+<h3>🧠 AyED</h3>
 
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
+<br><br>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%">
-
-### 🗄️ DBD
-
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
-
-🔗 [Repositorio](https://github.com/Matielson/DBD)
+🔗 <a href="https://github.com/Matielson/AyED">Repositorio</a>
 
 </td>
 
 <td width="33%">
 
-### 📊 Ingeniería de Software
+<h3>⚡ Seminario .NET</h3>
 
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/INGE1)
+<br><br>
 
-</td>
-
-<td width="33%">
-
-### 🖥️ Introducción a Sistemas Operativos
-
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
+🔗 <a href="https://github.com/Matielson/Seminario-.NET">Repositorio</a>
 
 </td>
 
@@ -228,14 +187,53 @@ Promedio actual: -
 
 <td width="33%">
 
-### 🧱 OO1
+<h3>🗄️ DBD</h3>
 
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
 
-🔗 [Repositorio](https://github.com/Matielson/OO1)
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/DBD">Repositorio</a>
+
+</td>
+
+<td width="33%">
+
+<h3>📊 Ingeniería de Software</h3>
+
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
+
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/INGE1">Repositorio</a>
+
+</td>
+
+<td width="33%">
+
+<h3>🖥️ Introducción a Sistemas Operativos</h3>
+
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+<h3>🧱 OO1</h3>
+
+<b>Estado:</b> ⏳ Pendiente  
+<b>Promedio actual:</b> -
+
+<br><br>
+
+🔗 <a href="https://github.com/Matielson/OO1">Repositorio</a>
 
 </td>
 
