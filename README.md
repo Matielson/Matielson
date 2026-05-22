@@ -55,195 +55,104 @@
 <tr>
 <td width="33%">
 
-<h3>💻 CADP</h3>
+### 💻 CADP
 
-<b>Estado:</b> 🟡 Final pendiente  
+<div>
+
+<b>Estado:</b> 🟡 Final pendiente<br>
 <b>Nota final:</b> -
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/CADP">Repositorio</a>
-
-</td>
-
-<td width="33%">
-
-<h3>⚙️ Organización de Computadoras</h3>
-
-<b>Estado:</b> ✅ Aprobada  
-<b>Nota final:</b> 4
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/Organizacion-De-Computadoras">Repositorio</a>
-
-</td>
-
-<td width="33%">
-
-<h3>📐 Matemática I</h3>
-
-<b>Estado:</b> ✅ Promocionada  
-<b>Nota final:</b> 9
-
-</td>
-</tr>
-
-<tr>
-
-<td width="33%">
-
-<h3>☕ Taller de Programación</h3>
-
-<b>Estado:</b> 🚧 Cursando  
-<b>Promedio actual:</b> 7
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/Taller-De-Programacion">Repositorio</a>
-
-</td>
-
-<td width="33%">
-
-<h3>🖥️ Arquitectura de Computadoras</h3>
-
-<b>Estado:</b> 🟡 Final pendiente  
-<b>Nota final:</b> -
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">Repositorio</a>
-
-</td>
-
-<td width="33%">
-
-<h3>📐 Matemática II</h3>
-
-<b>Estado:</b> ✅ Promocionada  
-<b>Nota final:</b> 6
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# ⚙️ Segundo Año
 
 </div>
 
-<table>
+<br>
 
-<tr>
-
-<td width="33%">
-
-<h3>🗂️ FOD</h3>
-
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/FOD">Repositorio</a>
+🔗 [Repositorio](https://github.com/Matielson/CADP)
 
 </td>
 
 <td width="33%">
 
-<h3>🧠 AyED</h3>
+### ⚙️ Organización de Computadoras
 
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
+<div>
 
-<br><br>
+<b>Estado:</b> ✅ Aprobada<br>
+<b>Nota final:</b> 4
 
-🔗 <a href="https://github.com/Matielson/AyED">Repositorio</a>
+</div>
+
+<br>
+
+🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
 
 </td>
 
 <td width="33%">
 
-<h3>⚡ Seminario .NET</h3>
+### 📐 Matemática I
 
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
+<div>
 
-<br><br>
+<b>Estado:</b> ✅ Promocionada<br>
+<b>Nota final:</b> 9
 
-🔗 <a href="https://github.com/Matielson/Seminario-.NET">Repositorio</a>
+</div>
 
 </td>
-
 </tr>
 
 <tr>
 
 <td width="33%">
 
-<h3>🗄️ DBD</h3>
+### ☕ Taller de Programación
 
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
+<div>
 
-<br><br>
+<b>Estado:</b> 🚧 Cursando<br>
+<b>Promedio actual:</b> 7
 
-🔗 <a href="https://github.com/Matielson/DBD">Repositorio</a>
+</div>
 
-</td>
+<br>
 
-<td width="33%">
-
-<h3>📊 Ingeniería de Software</h3>
-
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
-
-<br><br>
-
-🔗 <a href="https://github.com/Matielson/INGE1">Repositorio</a>
+🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
 
 </td>
 
 <td width="33%">
 
-<h3>🖥️ Introducción a Sistemas Operativos</h3>
+### 🖥️ Arquitectura de Computadoras
 
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
+<div>
+
+<b>Estado:</b> 🟡 Final pendiente<br>
+<b>Nota final:</b> -
+
+</div>
+
+<br>
+
+🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="33%">
 
-<h3>🧱 OO1</h3>
+### 📐 Matemática II
 
-<b>Estado:</b> ⏳ Pendiente  
-<b>Promedio actual:</b> -
+<div>
 
-<br><br>
+<b>Estado:</b> ✅ Promocionada<br>
+<b>Nota final:</b> 6
 
-🔗 <a href="https://github.com/Matielson/OO1">Repositorio</a>
+</div>
 
 </td>
-
-<td width="33%"></td>
-<td width="33%"></td>
 
 </tr>
 
 </table>
-
 ---
 
 # 📈 Progreso Académico
