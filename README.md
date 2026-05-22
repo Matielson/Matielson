@@ -19,7 +19,7 @@
 
 ---
 
-# 🧮 Estadísticas Académicas
+# 🎓 Progreso Académico — Licenciatura en Sistemas UNLP
 
 <div align="center">
 
@@ -30,11 +30,6 @@
 ![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-2-9a6700?style=for-the-badge&labelColor=fff8c5)
 
 </div>
-
-
----
-
-# 🎓 Progreso Académico — Licenciatura en Sistemas UNLP
 
 <div align="center">
 
