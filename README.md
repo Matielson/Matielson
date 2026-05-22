@@ -52,19 +52,14 @@
 
 <table>
 
-<tr>
-<td width="33%">
-
-### 💻 CADP
+<a href="https://github.com/Matielson/CADP">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: 🟡 Final pendiente
 Nota final: -
 ```
-
-🔗 [Repositorio](https://github.com/Matielson/CADP)
-
-</td>
 
 <td width="33%">
 
