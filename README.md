@@ -98,7 +98,7 @@ Nota final: 9
 
 <tr>
 
-<td align="center">
+<td>
 
 <a href="https://github.com/Matielson/Taller-De-Programacion">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
@@ -111,7 +111,7 @@ Promedio actual: 7
 
 </td>
 
-<td align="center">
+<td>
 
 <a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
@@ -124,7 +124,7 @@ Nota final: -
 
 </td>
 
-<td align="center">
+<td>
 
 <a href="https://github.com/Matielson/Matematicas 2">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Matematicas-2&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
