@@ -224,7 +224,9 @@ Promedio actual: -
 
 <td align="center">
 
-### 🖥️ Introducción a Sistemas Operativos
+<a href="https://github.com/Matielson/ISO">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=ISO&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
