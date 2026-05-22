@@ -23,11 +23,11 @@
 
 <div align="center">
 
-![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-2-0969DA?style=flat-square&labelColor=ddf4ff)
-&nbsp;
-![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-6-1a7f37?style=flat-square&labelColor=dafbe1)
-&nbsp;
-![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-2-9a6700?style=flat-square&labelColor=fff8c5)
+![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-2-0969DA?style=for-the-badge&labelColor=ddf4ff)
+&nbsp;&nbsp;
+![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-6-1a7f37?style=for-the-badge&labelColor=dafbe1)
+&nbsp;&nbsp;
+![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-2-9a6700?style=for-the-badge&labelColor=fff8c5)
 
 </div>
 
