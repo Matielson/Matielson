@@ -84,7 +84,7 @@ Nota final: 4
 <td>
 
 <a href="https://github.com/Matielson/Matematicas1">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Matematicas1&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 </a>
 
 ```text
