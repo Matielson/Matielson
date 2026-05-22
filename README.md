@@ -48,104 +48,15 @@
 
 # 📚 Primer Año
 
-</div>
+<div align="center">
 
-<table>
+[![CADP](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=github_dark&hide_border=true)](https://github.com/Matielson/CADP)
 
-### 💻 CADP
+[![Taller](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=github_dark&hide_border=true)](https://github.com/Matielson/Taller-De-Programacion)
 
-<pre>
-Estado: 🟡 Final pendiente
-Nota final: -
-</pre>
-
-🔗 [Repositorio](https://github.com/Matielson/CADP)
-
-</td>
-
-<td width="33%">
-
-### ⚙️ Organización de Computadoras
-
-<div>
-
-<b>Estado:</b> ✅ Aprobada<br>
-<b>Nota final:</b> 4
+[![Arquitectura](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=github_dark&hide_border=true)](https://github.com/Matielson/Arquitectura-De-Computadoras)
 
 </div>
-
-<br>
-
-🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
-
-</td>
-
-<td width="33%">
-
-### 📐 Matemática I
-
-<div>
-
-<b>Estado:</b> ✅ Promocionada<br>
-<b>Nota final:</b> 9
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="33%">
-
-### ☕ Taller de Programación
-
-<div>
-
-<b>Estado:</b> 🚧 Cursando<br>
-<b>Promedio actual:</b> 7
-
-</div>
-
-<br>
-
-🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
-
-</td>
-
-<td width="33%">
-
-### 🖥️ Arquitectura de Computadoras
-
-<div>
-
-<b>Estado:</b> 🟡 Final pendiente<br>
-<b>Nota final:</b> -
-
-</div>
-
-<br>
-
-🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
-
-</td>
-
-<td width="33%">
-
-### 📐 Matemática II
-
-<div>
-
-<b>Estado:</b> ✅ Promocionada<br>
-<b>Nota final:</b> 6
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
 ---
 
 # 📈 Progreso Académico
