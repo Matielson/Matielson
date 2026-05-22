@@ -46,11 +46,16 @@
 
 <div align="center">
 
+<div align="center">
+
 # 📚 Primer Año
 
 </div>
 
 <table>
+<tr>
+
+<td align="center">
 
 <a href="https://github.com/Matielson/CADP">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
@@ -61,20 +66,22 @@ Estado: 🟡 Final pendiente
 Nota final: -
 ```
 
-<td width="33%">
+</td>
 
-### ⚙️ Organización de Computadoras
+<td align="center">
+
+<a href="https://github.com/Matielson/Organizacion-De-Computadoras">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ✅ Aprobada
 Nota final: 4
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
-
 </td>
 
-<td width="33%">
+<td align="center">
 
 ### 📐 Matemática I
 
@@ -84,37 +91,38 @@ Nota final: 9
 ```
 
 </td>
+
 </tr>
 
 <tr>
 
-<td width="33%">
+<td align="center">
 
-### ☕ Taller de Programación
+<a href="https://github.com/Matielson/Taller-De-Programacion">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: 🚧 Cursando
 Promedio actual: 7
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
-
 </td>
 
-<td width="33%">
+<td align="center">
 
-### 🖥️ Arquitectura de Computadoras
+<a href="https://github.com/Matielson/Arquitectura-De-Computadoras">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: 🟡 Final pendiente
 Nota final: -
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
-
 </td>
 
-<td width="33%">
+<td align="center">
 
 ### 📐 Matemática II
 
@@ -141,42 +149,42 @@ Nota final: 6
 
 <tr>
 
-<td width="33%">
+<td align="center">
 
-### 🗂️ FOD
+<a href="https://github.com/Matielson/FOD">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=FOD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
-
-🔗 [Repositorio](https://github.com/Matielson/FOD)
 
 </td>
 
-<td width="33%">
+<td align="center">
 
-### 🧠 AyED
+<a href="https://github.com/Matielson/AyED">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=AyED&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
-
-🔗 [Repositorio](https://github.com/Matielson/AyED)
 
 </td>
 
-<td width="33%">
+<td align="center">
 
-### ⚡ Seminario .NET
+<a href="https://github.com/Matielson/Seminario-.NET">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Seminario-.NET&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
-
-🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
 
 </td>
 
@@ -184,33 +192,33 @@ Promedio actual: -
 
 <tr>
 
-<td width="33%">
+<td align="center">
 
-### 🗄️ DBD
-
-```text
-Estado: ⏳ Pendiente
-Promedio actual: -
-```
-
-🔗 [Repositorio](https://github.com/Matielson/DBD)
-
-</td>
-
-<td width="33%">
-
-### 📊 Ingeniería de Software
+<a href="https://github.com/Matielson/DBD">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=DBD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/INGE1)
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/INGE1">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=INGE1&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
 
 </td>
 
-<td width="33%">
+<td align="center">
 
 ### 🖥️ Introducción a Sistemas Operativos
 
@@ -225,21 +233,21 @@ Promedio actual: -
 
 <tr>
 
-<td width="33%">
+<td align="center">
 
-### 🧱 OO1
+<a href="https://github.com/Matielson/OO1">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=OO1&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ⏳ Pendiente
 Promedio actual: -
 ```
 
-🔗 [Repositorio](https://github.com/Matielson/OO1)
-
 </td>
 
-<td width="33%"></td>
-<td width="33%"></td>
+<td></td>
+<td></td>
 
 </tr>
 
