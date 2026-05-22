@@ -24,6 +24,7 @@
 <div align="center">
 
 ![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
+<br>
 ![Finales](https://img.shields.io/badge/Finales_Pendientes-2-red?style=for-the-badge)
 
 </div>
