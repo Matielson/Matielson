@@ -81,9 +81,11 @@ Nota final: 4
 
 </td>
 
-<td align="center">
+<td>
 
-### 📐 Matemática I
+<a href="https://github.com/Matielson/Matematicas1">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
 
 ```text
 Estado: ✅ Promocionada
