@@ -52,19 +52,12 @@
 
 <table>
 
-<tr>
-<td width="33%">
-
 ### 💻 CADP
 
-<div>
-
-<b>Estado:</b> 🟡 Final pendiente<br>
-<b>Nota final:</b> -
-
-</div>
-
-<br>
+<pre>
+Estado: 🟡 Final pendiente
+Nota final: -
+</pre>
 
 🔗 [Repositorio](https://github.com/Matielson/CADP)
 
