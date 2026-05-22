@@ -55,7 +55,7 @@
 <table>
 <tr>
 
-<td align="center">
+<td>
 
 <a href="https://github.com/Matielson/CADP">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
@@ -68,7 +68,7 @@ Nota final: -
 
 </td>
 
-<td align="center">
+<td>
 
 <a href="https://github.com/Matielson/Organizacion-De-Computadoras">
   <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Organizacion-De-Computadoras&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
