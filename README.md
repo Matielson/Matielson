@@ -48,37 +48,207 @@
 
 # 📚 Primer Año
 
-<div align="center">
+</div>
 
 <table>
+
 <tr>
+<td width="33%">
 
-<td width="50%">
+### 💻 CADP
 
-## 💻 CADP
+```text
+Estado: 🟡 Final pendiente
+Nota final: -
+```
 
-Algoritmos y Programación  
-Pascal • FreePascal • UNLP
-
-🔗 [Abrir repositorio](https://github.com/Matielson/CADP)
+🔗 [Repositorio](https://github.com/Matielson/CADP)
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## ☕ Taller de Programación
+### ⚙️ Organización de Computadoras
 
-Java • Objetos • UML
+```text
+Estado: ✅ Aprobada
+Nota final: 4
+```
 
-🔗 [Abrir repositorio](https://github.com/Matielson/Taller-De-Programacion)
+🔗 [Repositorio](https://github.com/Matielson/Organizacion-De-Computadoras)
+
+</td>
+
+<td width="33%">
+
+### 📐 Matemática I
+
+```text
+Estado: ✅ Promocionada
+Nota final: 9
+```
+
+</td>
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### ☕ Taller de Programación
+
+```text
+Estado: 🚧 Cursando
+Promedio actual: 7
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Taller-De-Programacion)
+
+</td>
+
+<td width="33%">
+
+### 🖥️ Arquitectura de Computadoras
+
+```text
+Estado: 🟡 Final pendiente
+Nota final: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Arquitectura-De-Computadoras)
+
+</td>
+
+<td width="33%">
+
+### 📐 Matemática II
+
+```text
+Estado: ✅ Promocionada
+Nota final: 6
+```
 
 </td>
 
 </tr>
+
 </table>
+
+---
+
+<div align="center">
+
+# ⚙️ Segundo Año
 
 </div>
 
+<table>
+
+<tr>
+
+<td width="33%">
+
+### 🗂️ FOD
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/FOD)
+
+</td>
+
+<td width="33%">
+
+### 🧠 AyED
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/AyED)
+
+</td>
+
+<td width="33%">
+
+### ⚡ Seminario .NET
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/Seminario-.NET)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### 🗄️ DBD
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/DBD)
+
+</td>
+
+<td width="33%">
+
+### 📊 Ingeniería de Software
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/INGE1)
+
+</td>
+
+<td width="33%">
+
+### 🖥️ Introducción a Sistemas Operativos
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+### 🧱 OO1
+
+```text
+Estado: ⏳ Pendiente
+Promedio actual: -
+```
+
+🔗 [Repositorio](https://github.com/Matielson/OO1)
+
+</td>
+
+<td width="33%"></td>
+<td width="33%"></td>
+
+</tr>
+
+</table>
 ---
 
 # 📈 Progreso Académico
