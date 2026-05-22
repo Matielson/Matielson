@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
+![Materias](https://img.shields.io/badge/Materias_Aprobadas-8-2ea44f?style=for-the-badge)
 
 ![Promedio](https://img.shields.io/badge/Promedio-7.33-blue?style=for-the-badge)
 
