@@ -141,7 +141,7 @@ Nota final: 6
 
 ---
 
-<div align="center">
+<div>
 
 # ⚙️ Segundo Año
 
@@ -268,7 +268,8 @@ Nota final: 7
 </tr>
 
 </table>
-...
+
+<div> ... </div>
 
 # 📈 Progreso Académico
 
