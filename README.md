@@ -31,12 +31,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5F5DC&center=true&vCenter=true&width=700&lines=Materias+aprobadas+y+en+curso+😝" />
-
-</div>
-
 ---
 
 <div>
