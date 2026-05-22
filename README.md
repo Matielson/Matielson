@@ -270,7 +270,7 @@ Nota final: 7
 </tr>
 
 </table>
----
+...
 
 # 📈 Progreso Académico
 
