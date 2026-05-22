@@ -276,13 +276,13 @@ Nota final: 7
 
 ### 📚 Primer Año — 83%
 
-![83%](https://progress-bar.xyz/83/?title=Primer+Año&width=600&color=58A6FF)
+![83%](https://progress-bar.xyz/83/?title=1er+Año&width=600&color=58A6FF)
 
 <br>
 
 ### ⚙️ Segundo Año — 0%
 
-![0%](https://progress-bar.xyz/0/?title=Segundo+Año&width=600&color=58A6FF)
+![0%](https://progress-bar.xyz/0/?title=2do+Año&width=600&color=58A6FF)
 ---
 
 <div align="center">
