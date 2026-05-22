@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Bold&size=22&pause=1000&color=Red&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP+😉;Repositorios+por+materia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Bold&size=22&pause=1000&color=F5F5DC&center=true&vCenter=true&width=700&lines=Licenciatura+en+Sistemas+%7C+UNLP+😉;Repositorios+por+materia" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
 
-![Finales](https://img.shields.io/badge/Finales_Pendientes-2-green?style=for-the-badge)
+![Finales](https://img.shields.io/badge/Finales_Pendientes-2-red?style=for-the-badge)
 
 </div>
 
