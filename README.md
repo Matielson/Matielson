@@ -50,11 +50,32 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=github_dark&hide_border=true)](https://github.com/Matielson/CADP)
+<table>
+<tr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=github_dark&hide_border=true)](https://github.com/Matielson/Taller-De-Programacion)
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=github_dark&hide_border=true)](https://github.com/Matielson/Arquitectura-De-Computadoras)
+## 💻 CADP
+
+Algoritmos y Programación  
+Pascal • FreePascal • UNLP
+
+🔗 [Abrir repositorio](https://github.com/Matielson/CADP)
+
+</td>
+
+<td width="50%">
+
+## ☕ Taller de Programación
+
+Java • Objetos • UML
+
+🔗 [Abrir repositorio](https://github.com/Matielson/Taller-De-Programacion)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
