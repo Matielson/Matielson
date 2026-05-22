@@ -263,6 +263,5 @@ Promedio actual: -
 
 <div align="center">
 
-### 💡 “Documentar el progreso también es parte del aprendizaje.”
-
+### 🚀 "La diferencia está en seguir"
 </div>
