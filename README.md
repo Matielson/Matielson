@@ -19,15 +19,15 @@
 
 ---
 
-# 🧮 Estadísticas Académicas
+## 🧮 Estadísticas Académicas
 
 <div align="center">
 
-![Promocionadas](https://img.shields.io/badge/Materias_Promocionadas-2-Blue?style=for-the-badge)
-<br>
-![Materias](https://img.shields.io/badge/Materias_Aprobadas-6-2ea44f?style=for-the-badge)
-<br>
-![Finales](https://img.shields.io/badge/Finales_Pendientes-2-red?style=for-the-badge)
+![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-2-0969DA?style=flat-square&labelColor=ddf4ff)
+&nbsp;
+![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-6-1a7f37?style=flat-square&labelColor=dafbe1)
+&nbsp;
+![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-2-9a6700?style=flat-square&labelColor=fff8c5)
 
 </div>
 
