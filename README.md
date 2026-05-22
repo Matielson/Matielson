@@ -261,16 +261,6 @@ Promedio actual: -
 ![0%](https://progress-bar.xyz/0/?title=Segundo+Año&width=600&color=58A6FF)
 ---
 
-# 🌱 Actualmente
-
-- Resolviendo ejercicios y prácticas de AyED
-- Mejorando lógica y estructuras de datos
-- Aprendiendo mejores prácticas de programación
-- Organizando material útil para estudiantes
-- Construyendo una base sólida en informática
-
----
-
 <div align="center">
 
 ### 💡 “Documentar el progreso también es parte del aprendizaje.”
