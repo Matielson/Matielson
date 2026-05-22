@@ -19,7 +19,7 @@
 
 ---
 
-## 🧮 Estadísticas Académicas
+# 🧮 Estadísticas Académicas
 
 <div align="center">
 
