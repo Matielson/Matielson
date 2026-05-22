@@ -50,13 +50,14 @@
 
 <div align="center">
 
-[![CADP](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=github_dark&hide_border=true)](https://github.com/Matielson/CADP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=CADP&theme=github_dark&hide_border=true)](https://github.com/Matielson/CADP)
 
-[![Taller](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=github_dark&hide_border=true)](https://github.com/Matielson/Taller-De-Programacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Taller-De-Programacion&theme=github_dark&hide_border=true)](https://github.com/Matielson/Taller-De-Programacion)
 
-[![Arquitectura](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=github_dark&hide_border=true)](https://github.com/Matielson/Arquitectura-De-Computadoras)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Arquitectura-De-Computadoras&theme=github_dark&hide_border=true)](https://github.com/Matielson/Arquitectura-De-Computadoras)
 
 </div>
+
 ---
 
 # 📈 Progreso Académico
