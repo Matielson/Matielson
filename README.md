@@ -275,5 +275,5 @@ Nota final: 7
 
 <div align="center">
 
-### 🚀 "La diferencia está en seguir."
+### ⌛ "La diferencia está en seguir."
 </div>
