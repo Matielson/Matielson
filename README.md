@@ -264,7 +264,7 @@ Nota final: 7
 
 ### 📚 Primer Año — 91.5%
 
-![91.5%](https://progress-bar.xyz/91.5/?title=1er+Año&width=600&color=58A6FF)
+![91.5%](https://progress-bar.xyz/91/?title=1er+Año&width=600&color=58A6FF)
 
 <br>
 
