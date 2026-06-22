@@ -262,9 +262,9 @@ Nota final: 7
 
 # 📈 Progreso Académico
 
-### 📚 Primer Año — 83%
+### 📚 Primer Año — 91.5%
 
-![83%](https://progress-bar.xyz/83/?title=1er+Año&width=600&color=58A6FF)
+![91.5%](https://progress-bar.xyz/91.5/?title=1er+Año&width=600&color=58A6FF)
 
 <br>
 
