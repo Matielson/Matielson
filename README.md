@@ -92,8 +92,8 @@ Nota final: 9
 </a>
 
 ```text
-Estado: 🚧 Cursando
-Nota actual: 7
+Estado: ✅ Promocionada
+Nota final: 8
 ```
 
 </td>
