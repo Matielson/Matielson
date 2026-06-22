@@ -7,8 +7,7 @@
 <br>
 
 <p>
-  Material organizado por materias, orientado tanto al aprendizaje personal
-  como a ayudar a otros estudiantes de informática.
+  Material organizado por materias + Registro de avance en la carrera.
 </p>
 
 <br>
