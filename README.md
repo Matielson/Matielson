@@ -267,7 +267,7 @@ Nota final: 7
 
 <br>
 
-### ⚙️ Segundo Año — 0%
+### ⚙️ Segundo Año — 12%
 
 ![12.5%](https://progress-bar.xyz/12/?title=2do+Año&width=600&color=58A6FF)
 ---
