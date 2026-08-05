@@ -26,7 +26,7 @@
 &nbsp;&nbsp;
 ![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-7/34-1a7f37?style=for-the-badge&labelColor=dafbe1)
 &nbsp;&nbsp;
-![En Curso](https://img.shields.io/badge/🚧_En_Curso-3-5B21B6?style=for-the-badge&labelColor=7C3AED)
+![En Curso](https://img.shields.io/badge/🚧_EN_CURSO-3-7C3AED?style=for-the-badge&labelColor=5B21B6&logoColor=white)
 &nbsp;&nbsp;
 ![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-1-9a6700?style=for-the-badge&labelColor=fff8c5)
 
