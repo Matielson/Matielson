@@ -24,9 +24,9 @@
 
 ![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-3-0969DA?style=for-the-badge&labelColor=ddf4ff)
 &nbsp;&nbsp;
-![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-7-1a7f37?style=for-the-badge&labelColor=dafbe1)
+![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-8-1a7f37?style=for-the-badge&labelColor=dafbe1)
 &nbsp;&nbsp;
-![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-2-9a6700?style=for-the-badge&labelColor=fff8c5)
+![Pendientes](https://img.shields.io/badge/⏳_Finales_Pendientes-1-9a6700?style=for-the-badge&labelColor=fff8c5)
 
 </div>
 
