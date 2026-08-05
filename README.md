@@ -48,8 +48,8 @@
 </a>
 
 ```text
-Estado: 🟡 Final pendiente
-Nota final: -
+Estado: ✅ Aprobada
+Nota final: 4
 ```
 
 </td>
