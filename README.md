@@ -257,6 +257,104 @@ Nota final: 7
 
 </tr>
 
+---
+
+<div>
+
+# 🚀 Tercer Año
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Conceptos-y-Paradigmas-de-Lenguajes-de-Programacion&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Teoria-de-la-Computacion">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Teoria-de-la-Computacion&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Programacion-Concurrente">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Programacion-Concurrente&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Administracion-de-Organizaciones">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Administracion-de-Organizaciones&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Aspectos-Legales-y-Profesionales">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Aspectos-Legales-y-Profesionales&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Ingenieria-de-Software-2">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Ingenieria-de-Software-2&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+```
+
+</td>
+
+</tr>
+
+</table>
+
 </table>
 
 <div align="center"> ... </div>
