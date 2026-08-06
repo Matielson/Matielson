@@ -257,6 +257,8 @@ Nota final: 7
 
 </tr>
 
+</table>
+
 ---
 
 <div>
@@ -352,8 +354,6 @@ Nota actual: -
 </td>
 
 </tr>
-
-</table>
 
 </table>
 
