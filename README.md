@@ -149,7 +149,7 @@ Nota final: 6
 
 ```text
 Estado: ⏳ Pendiente
-Promedio actual: -
+Nota actual: -
 ```
 
 </td>
@@ -162,7 +162,7 @@ Promedio actual: -
 
 ```text
 Estado: ⏳ Pendiente
-Promedio actual: -
+Nota actual: -
 ```
 
 </td>
@@ -175,7 +175,7 @@ Promedio actual: -
 
 ```text
 Estado: ⏳ Pendiente
-Promedio actual: -
+Nota actual: -
 ```
 
 </td>
@@ -192,7 +192,7 @@ Promedio actual: -
 
 ```text
 Estado: ⏳ Pendiente
-Promedio actual: -
+Nota actual: -
 ```
 
 </td>
@@ -204,8 +204,8 @@ Promedio actual: -
 </a>
 
 ```text
-Estado: ⏳ Pendiente
-Promedio actual: -
+Estado: 🚧 En Curso
+Nota actual: -
 ```
 
 </td>
@@ -217,7 +217,7 @@ Promedio actual: -
 </a>
 
 ```text
-Estado: ⏳ Pendiente
+Estado: 🚧 En Curso
 Promedio actual: -
 ```
 
@@ -234,8 +234,8 @@ Promedio actual: -
 </a>
 
 ```text
-Estado: ⏳ Pendiente
-Promedio actual: -
+Estado: 🚧 En Curso
+Nota actual: -
 ```
 
 </td>
