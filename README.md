@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-3-0969DA?style=for-the-badge&labelColor=ddf4ff)
+![Promocionadas](https://img.shields.io/badge/🏅_Promocionadas-4-0969DA?style=for-the-badge&labelColor=ddf4ff)
 &nbsp;&nbsp;
-![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-7/34-1a7f37?style=for-the-badge&labelColor=dafbe1)
+![Aprobadas](https://img.shields.io/badge/✅_Aprobadas-8/34-1a7f37?style=for-the-badge&labelColor=dafbe1)
 &nbsp;&nbsp;
 ![En Curso](https://img.shields.io/badge/🚧_EN_CURSO-3-7C3AED?style=for-the-badge&labelColor=5B21B6&logoColor=black)
 &nbsp;&nbsp;
