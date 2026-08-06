@@ -301,13 +301,13 @@ Nota actual: 7
 
 <br>
 
-### ⚙️ Segundo Año — 12%
+### ⚙️ Segundo Año — 31%
 
-![12.5%](https://progress-bar.xyz/12/?title=2do+Año&width=600&color=58A6FF)
+![31%](https://progress-bar.xyz/31/?title=2do+Año&width=600&color=58A6FF)
 
 <br>
 
-### 🚀 Tercer Año — 0%
+### 🚀 Tercer Año — 12.5%
 
 ![12.5%](https://progress-bar.xyz/12/?title=3er+Año&width=600&color=58A6FF)
 ---
