@@ -279,7 +279,7 @@ Nota final: 7
 
 ```text
 Estado: ✅ Promocionada
-Nota actual: 7
+Nota final: 7
 ```
 
 </td>
