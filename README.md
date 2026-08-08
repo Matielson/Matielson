@@ -312,6 +312,8 @@ Nota final: 7
 Estado: ⏳ Pendiente
 Nota actual: -
 
+</td> </tr> </table> ```
+
 
 <div align="center"> ... </div>
 
