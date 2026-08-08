@@ -340,6 +340,12 @@ Nota actual: -
 ### 🚀 Tercer Año — 12.5%
 
 ![12.5%](https://progress-bar.xyz/12/?title=3er+Año&width=600&color=58A6FF)
+
+<br>
+
+### 💻 Cuarto Año — 6%
+
+![6%](https://progress-bar.xyz/6/?title=4to+Año&width=600&color=58A6FF)
 ---
 
 <div align="center">
