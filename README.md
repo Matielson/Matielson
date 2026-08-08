@@ -169,8 +169,8 @@ Nota actual: -
 
 <td align="center">
 
-<a href="https://github.com/Matielson/Seminario-.NET">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Seminario-.NET&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<a href="https://github.com/Matielson/Seminario">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Seminario&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1" />
 </a>
 
 ```text
@@ -187,7 +187,7 @@ Nota actual: -
 <td align="center">
 
 <a href="https://github.com/Matielson/DBD">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=DBD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=DBD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1" />
 </a>
 
 ```text
