@@ -290,6 +290,28 @@ Nota final: 7
 
 </table>
 
+---
+
+<div>
+
+# 💻 Cuarto Año
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Matielson/Matematicas-4">
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=Matematicas-4&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+```text
+Estado: ⏳ Pendiente
+Nota actual: -
+
 
 <div align="center"> ... </div>
 
