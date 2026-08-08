@@ -144,7 +144,7 @@ Nota final: 6
 <td align="center">
 
 <a href="https://github.com/Matielson/FOD">
-  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=FOD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Matielson&repo=FOD&theme=midnight-purple&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1" />
 </a>
 
 ```text
